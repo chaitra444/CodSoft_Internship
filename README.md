@@ -13,6 +13,7 @@ and collaborative projects, we empower individuals to take
 on leadership roles and make a difference in their
 respective fields.
 
+
 TASK1:
 
 SIMPLE_CALCULATOR
@@ -21,6 +22,7 @@ Develop a calculator program that performs basic arithmetic
 operations such as addition, subtraction, multiplication, and
 division. Allow the user to input two numbers and choose an
 operation to perform.
+
 
 TASK2:
 
@@ -55,6 +57,7 @@ players.
 Display Result: Show the result of the game (win, draw, or ongoing).
 
 Play Again: Ask if the players want to play another game.
+
 
 TASK3:
 
